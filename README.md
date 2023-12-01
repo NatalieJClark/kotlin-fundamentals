@@ -18,9 +18,9 @@ I used this project to learn how to:
 
 
 ## Setup
-To run the program in IntelliJ:
+To run the program in IntelliJ, navigate to `Main.kt` and then:
 - `Ctrl + R`
-- Or navigate to `Main.kt` and press "play"
+- Or press "play"
 
 To run the tests in IntelliJ:
 - Run a single test (using the "play" button next to where it is declared in the editor).
