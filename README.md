@@ -1,7 +1,7 @@
 # Kotlin Fundamentals
 
 ## Introduction
-- This is my repo for learning Kotlin Fundamentals in Makers Module 3 - Mobile Applications.
+- This is my repo for learning Makers Module 3 - Kotlin Fundamentals.
 - This project is just practise code for learning Kotlin syntax.
 - `Main.kt` contains commented practise code, consisting of practise and exercises for each learning objective.
 
