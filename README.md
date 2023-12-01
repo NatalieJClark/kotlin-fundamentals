@@ -10,11 +10,11 @@ I used this project to learn how to:
 - [x] Explain and use data types in Kotlin.
 - [x] Write Kotlin functions.
 - [x] Use conditionals in Kotlin.
-- [x] Learn to use collections such as lists and maps in Kotlin.
-- [x] Learn to use higher-order functions and lambdas.
-- [x] Learn to write classes in Kotlin.
-- [x] Learn to write unit tests in Kotlin.
-- [x] Learn to install libraries using the tool Gradle.
+- [x] Use collections such as lists and maps in Kotlin.
+- [x] Use higher-order functions and lambdas.
+- [x] Write classes in Kotlin.
+- [x] Write unit tests in Kotlin.
+- [x] Install libraries using the tool Gradle.
 
 
 ## Setup
